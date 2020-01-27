@@ -1081,7 +1081,7 @@ button[disabled] {
   background-color: transparent;
   border-color: #d2232a;
   color: #000;
-  font-family: "open-sans", sans-serif;
+  font-family: open-sans, sans-serif;
 }
 
 .btn-ghost:focus,
