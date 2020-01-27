@@ -10,13 +10,13 @@ header {
 h1, h2 {
   font-family: merriweather, serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 h5 {
   font-family: "open-sans", sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   color: #d2232a;
 }
 
@@ -43,7 +43,7 @@ ul {
   align-items: center;
 }
 
-.nav-logo img{
+.nav-logo img {
   width: 15.625em;
   margin-left: 60px;
   align-content: center;
@@ -76,28 +76,27 @@ ul {
   list-style-type: none;
 }
 
-.nav-links ul li::after{
-  content: '';
+.nav-links ul li::after {
   width: 0%;
-  height: 0.125em;
+  height: .125em;
   background: #fff;
   display: block;
   margin: auto;
   transition: .5s;
 }
 
-.nav-links ul li:hover::after{
+.nav-links ul li:hover::after {
   width: 100%;
 }
 
 .btn {
-  padding: 0.225em 1.250em;
+  padding: .225em 1.25em;
   border: 0;
   background: #fff;
   cursor: pointer;
   margin-top: .5em;
   font-family: "open-sans", sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -117,9 +116,9 @@ ul {
 }
 
 .recipe-names {
-  font-family: 'merriweather', serif;
+  font-family: "merriweather", serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .card,
@@ -166,7 +165,7 @@ hr {
 .red-bold {
   font-family: "open-sans", sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: bold;
   color: #d2232a;
 }
 
