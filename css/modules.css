@@ -1079,17 +1079,18 @@ button[disabled] {
 .btn-ghost,
 .btn--ghost {
   background-color: transparent;
-  border-color: #333;
+  border-color: #d2232a;
   color: #000;
+  font-family: "open-sans", sans-serif;
 }
 
 .btn-ghost:focus,
 .btn-ghost:hover,
 .btn--ghost:focus,
 .btn--ghost:hover {
-  background-color: #e2e2e2;
-  border-color: #000;
-  color: #000;
+  background-color: #d2232a;
+  border-color: #d2232a;
+  color: #fff;
 }
 
 .btn-link {

@@ -665,7 +665,7 @@ legend {
 
   .hang-punc {
     float: left;
-    margin-left: -1.4em;
+    margin-left: -1.5em;
     text-align: right;
     width: 1.3em;
   }
@@ -1082,7 +1082,7 @@ legend {
 
   .hang-punc {
     float: left;
-    margin-left: -1.4em;
+    margin-left: -1.8em;
     text-align: right;
     width: 1.3em;
   }
@@ -1499,7 +1499,7 @@ legend {
 
   .hang-punc {
     float: left;
-    margin-left: -1.4em;
+    margin-left: -1.8em;
     text-align: right;
     width: 1.3em;
   }
